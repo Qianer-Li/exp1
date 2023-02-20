@@ -1,2 +1,3 @@
 name = input("who are you please")
-print("hello %s"%name)
+ print("hello %s"%name)
+print("bye")
